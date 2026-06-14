@@ -1,6 +1,6 @@
-# NeuroRover V1
+# NeuroRover Beta
 
-NeuroRover V1 is a Raspberry Pi 4 based AI robot car project.
+NeuroRover Beta is a Raspberry Pi 4 based AI robot car project.
 The goal is to build a small self-driving robot that can use a camera, sensors, motor control, and later machine learning to drive safely.
 
 This is not a real Level 5 autonomous car. It is a learning project for robotics, electronics, Python, computer vision, and AI.
