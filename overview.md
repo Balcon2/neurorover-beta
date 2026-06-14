@@ -1,4 +1,4 @@
-Project Specification — NeuroRover V1
+Project Specification — NeuroRover Beta
 Overview
 
 NeuroRover V1 is a Raspberry Pi 4 based AI robot car using a Raspberry Pi Camera Module, four N20 DC gear motors with encoders, dual TB6612FNG motor drivers, VL53L1X ToF distance sensor, HC-SR04 ultrasonic sensor, MPU6050 IMU, PCA9685 servo driver, one SG90 servo, and 2S LiPo battery power.
