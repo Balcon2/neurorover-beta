@@ -1,0 +1,53 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets / private files
+.env
+secrets.json
+config.local.py
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Machine learning data - can get huge
+data/raw/
+data/processed/
+datasets/
+
+# Trained models - optional, upload only if small
+*.h5
+*.keras
+*.tflite
+*.onnx
+*.pt
+*.pth
+
+# Camera captures / test images
+captures/
+recordings/
+*.mp4
+*.avi
+
+# KiCad backup/temp files
+*-backups/
+*.bak
+*.kicad_prl
+*.lck
+
+# Fusion/CAD temporary exports
+*.tmp
