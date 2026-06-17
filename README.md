@@ -148,7 +148,7 @@ Raspberry Pi Camera Module → Raspberry Pi CSI camera port
 
 ## Software Plan
 
-Suggested project structure:
+Project structure:
 
 ```text
 neurorover-v1/
@@ -189,7 +189,7 @@ More libraries will be added later depending on the sensors and AI model.
 
 ## Development Order
 
-Recommended build order:
+Build order:
 
 1. Build the CAD chassis.
 2. Mount motors and wheels.
