@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "filename": "NeuroRover_V1.kicad_pro",
+    "version": 1
+  },
+  "sheets": [
+    [
+      "00000000-0000-0000-0000-000000000000",
+      "Root"
+    ]
+  ],
+  "libraries": {
+    "pinned_symbol_libs": [],
+    "pinned_footprint_libs": []
+  },
+  "erc": {
+    "erc_exclusions": [],
+    "meta": {
+      "version": 0
+    }
+  },
+  "net_settings": {
+    "classes": [],
+    "meta": {
+      "version": 3
+    },
+    "nets": []
+  },
+  "schematic": {
+    "meta": {
+      "version": 1
+    }
+  },
+  "board": {
+    "design_settings": {
+      "defaults": {},
+      "rules": {}
+    }
+  }
+}
