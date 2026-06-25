@@ -49,5 +49,5 @@ recordings/
 *.kicad_prl
 *.lck
 
-# Fusion/CAD temporary exports
+# Fusion/OpenSCAD temporary exports
 *.tmp
